@@ -1,6 +1,6 @@
 const express = require("express");
 
-const routerProdutos = require("../aula04/router");
+const routerProdutos = require("./router");
 
 const app = express();
 
